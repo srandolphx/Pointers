@@ -1,0 +1,5 @@
+﻿  pointers.cpp
+C:\C#Projects\Full Sail Class Work\C++ projects\Systems Prog\pointers\pointers\pointers.cpp(97,28): warning C4312: 'type cast': conversion from 'int' to 'int *' of greater size
+C:\C#Projects\Full Sail Class Work\C++ projects\Systems Prog\pointers\pointers\pointers.cpp(99,23): warning C4311: 'type cast': pointer truncation from 'int *' to 'int'
+C:\C#Projects\Full Sail Class Work\C++ projects\Systems Prog\pointers\pointers\pointers.cpp(99,23): warning C4302: 'type cast': truncation from 'int *' to 'int'
+  pointers.vcxproj -> C:\C#Projects\Full Sail Class Work\C++ projects\Systems Prog\pointers\x64\Debug\pointers.exe
